@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.btn-click{
+    background-color: #1090CB;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+span{
+    color:#1090CB ;
+}
+.column{
+    background-color: #1090CB1A;
+    width: 100%;
+}
+.assi-2{
+    background-color:#F4F4F4 !important ;
+}
+.assi-1{
+    background-color: #1090CB !important;
+}
+.btn-click-1{
+    color: #1090CB;
+    border: none;
+}
+.heading-3{
+    background-color: #E8F4FA;
+    height: 300px;
+    width: 100%;
+}
+.btn-5{
+    background-color: #000000;
+    color: white;
+    border-radius: 5px;
+}
+.email{
+    border: none;
+}
